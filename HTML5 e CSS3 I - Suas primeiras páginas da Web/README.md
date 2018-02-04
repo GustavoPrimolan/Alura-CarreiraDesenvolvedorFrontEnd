@@ -1,3 +1,7 @@
+<h1>Imagens do Projeto</h1>
+<img src="ImagemProjeto01.PNG"/>
+<img src="ImagemProjeto02.PNG"/>
+<img src="ImagemProjeto03.PNG"/>
 ------------------------------------------------------------------------------------------
 <h1>Seção 01 - Introdução ao HTML</h1>
 
@@ -40,7 +44,7 @@ Trabalho usando a web... = parágrafo
 Como trabalho = subtítulo
 Tags
 O HTML serve justamente para indicar o que significa cada trecho de texto que digitamos. Para o nosso exemplo, poderíamos colocar essas informações no texto da seguinte forma:
-
+<code>
 <h1>Sobre mim</h1>
 
 <p>Moro em São Paulo...</p>
@@ -48,6 +52,7 @@ O HTML serve justamente para indicar o que significa cada trecho de texto que di
 <p>Trabalho usando a web...</p>
 
 <h2>Como trabalho</h2>
+</code>
 Repare nas marcações que colocamos: <h1>, <h2> e <p>. Essas marcações são o que chamamos de tags do HTML, e são o bloco de construção fundamental da linguagem.
 
 Repare que usamos também </h1>, </h2> e </p>. Quando colocamos essas marcações, estamos indicando o final de uma tag ou, como dizemos, fechamos a tag que estava aberta.
